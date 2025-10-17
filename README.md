@@ -45,8 +45,3 @@ The dataset contains historical weather data with the following features:
 ### Prerequisites
 - Python 3.7+
 - pip package manager
-
-### Clone the Repository
-```bash
-git clone https://github.com/yourusername/rain-prediction-ml.git
-cd rain-prediction-ml
