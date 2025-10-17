@@ -39,6 +39,7 @@ The dataset contains historical weather data with the following features:
 
 ![Rain Prediction Interface](images/interface.png)
 
+
 ## 🛠️ Installation
 
 ### Prerequisites
